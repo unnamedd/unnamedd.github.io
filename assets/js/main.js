@@ -122,6 +122,7 @@
 			var altText = "{0} - {1}".format(project.name, project.year);
 			var strong = $("<strong/>").text(altText);
 			a.attr("title", altText);
+			a.attr("target", "_blank");
 			a.append(strong);
 			a.append("<br/>");
 

@@ -235,6 +235,7 @@
 		width: 33.3333333333%;
 		clear: none;
 		margin-left: 0;
+		height: 300px;
 	}
 
 	.\33 u, .\33 u\24 {
@@ -1362,6 +1363,7 @@
 						position: relative;
 						display: block;
 						height: 100%;
+					    border: 10px solid #000;
 					}
 
 					#me .pic .arrow {

@@ -110,6 +110,7 @@
 			}
 		];
 
+		projects = projects.sort(function(a,b){return b.year-a.year});
 		var rows = $("article.panel > section > div.row");
 		for (var i = 0, len = projects.length; i < len; i++) {
 			var project = projects[i];

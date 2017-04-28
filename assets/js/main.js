@@ -56,7 +56,7 @@
 				"year": 2014,
 				"name": "Guia de Brincadeiras",
 				"itunes": "https://itunes.apple.com/br/app/guia-brincadeiras-da-crescer/id804132458?mt=8",
-				"available": true,
+				"available": false,
 				"thumb": "images/projects/guiadebrincadeiras.jpeg",
 				"done": true
 			},
@@ -92,21 +92,62 @@
 				"thumb": "images/projects/qualcomprar.png",
 				"done": true
 			},
+			// {
+			// 	"year": 2015,
+			// 	"name": "Carnaval 2015",
+			// 	"itunes": null,
+			// 	"available": false,
+			// 	"thumb": "images/projects/carnaval2015.png",
+			// 	"done": true
+			// },
+			// {
+			// 	"year": 2015,
+			// 	"name": "CriaTrip",
+			// 	"itunes": null,
+			// 	"available": false,
+			// 	"thumb": "images/projects/criatrip.png",
+			// 	"done": false
+			// }
 			{
-				"year": 2015,
-				"name": "Carnaval 2015",
-				"itunes": null,
-				"available": false,
-				"thumb": "images/projects/carnaval2015.png",
+				"year": 2016,
+				"name": "Humor Multishow",
+				"itunes": "https://itunes.apple.com/br/app/humor-multishow/id1067459902?mt=8",
+				"available": true,
+				"thumb": "images/projects/humor-multishow.jpg",
 				"done": true
 			},
 			{
-				"year": 2015,
-				"name": "CriaTrip",
-				"itunes": null,
-				"available": false,
-				"thumb": "images/projects/criatrip.png",
-				"done": false
+				"year": 2016,
+				"name": "Receitas GNT",
+				"itunes": "https://itunes.apple.com/br/app/receitas-gnt/id668151960?mt=8",
+				"available": true,
+				"thumb": "images/projects/receitas-gnt.jpg",
+				"done": true
+			},
+			{
+
+				"year": 2016,
+				"name": "SporTV - Gols",
+				"itunes": "https://itunes.apple.com/br/app/sportv-gols/id990348110?mt=8",
+				"available": true,
+				"thumb": "images/projects/sportv-gols.jpg",
+				"done": true
+			},
+			{
+				"year": 2017,
+				"name": "Evolution - App",
+				"itunes": "https://itunes.apple.com/br/app/swift-evolution/id1210898168?mt=8",
+				"available": true,
+				"thumb": "images/projects/evolution.jpg",
+				"done": true
+			},
+			{
+				"year": 2017,
+				"name": "Homer",
+				"itunes": "https://itunes.apple.com/br/app/corretorvip-mobile/id739773776?mt=8",
+				"available": true,
+				"thumb": "images/projects/homer.jpg",
+				"done": true
 			}
 		];
 
@@ -351,13 +392,10 @@
 
 			})
 			.on('-desktop', function() {
-
 				window.setTimeout(function() {
 					location.reload(true);
 				}, 50);
-
 			});
-
 	});
 
 })(jQuery);

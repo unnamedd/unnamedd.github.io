@@ -45,70 +45,6 @@
 				"done": true
 			},
 			{
-				"year": 2013,
-				"name": "GNT A Carioca",
-				"itunes": "https://itunes.apple.com/br/app/a-carioca/id590227351?mt=8",
-				"available": true,
-				"thumb": "images/projects/gntacarioca.jpeg",
-				"done": true
-			},
-			{
-				"year": 2014,
-				"name": "Guia de Brincadeiras",
-				"itunes": "https://itunes.apple.com/br/app/guia-brincadeiras-da-crescer/id804132458?mt=8",
-				"available": false,
-				"thumb": "images/projects/guiadebrincadeiras.jpeg",
-				"done": true
-			},
-			{
-				"year": 2014,
-				"name": "Lance! na Copa",
-				"itunes": null,
-				"available": false,
-				"thumb": "images/projects/lancecopa.png",
-				"done": true
-			},
-			{
-				"year": 2014,
-				"name": "Globo Esporte",
-				"itunes": null,
-				"available": false,
-				"thumb": "images/projects/globoesporte.png",
-				"done": true
-			},
-			{
-				"year": 2014,
-				"name": "Eu Atleta",
-				"itunes": "https://itunes.apple.com/br/app/eu-atleta/id572977180?mt=8",
-				"available": true,
-				"thumb": "images/projects/euatleta.png",
-				"done": true
-			},
-			{
-				"year": 2014,
-				"name": "Qual Comprar",
-				"itunes": "https://itunes.apple.com/br/app/qual-comprar-autoesporte/id920524835?mt=8",
-				"available": true,
-				"thumb": "images/projects/qualcomprar.png",
-				"done": true
-			},
-			// {
-			// 	"year": 2015,
-			// 	"name": "Carnaval 2015",
-			// 	"itunes": null,
-			// 	"available": false,
-			// 	"thumb": "images/projects/carnaval2015.png",
-			// 	"done": true
-			// },
-			// {
-			// 	"year": 2015,
-			// 	"name": "CriaTrip",
-			// 	"itunes": null,
-			// 	"available": false,
-			// 	"thumb": "images/projects/criatrip.png",
-			// 	"done": false
-			// }
-			{
 				"year": 2016,
 				"name": "Humor Multishow",
 				"itunes": "https://itunes.apple.com/br/app/humor-multishow/id1067459902?mt=8",
@@ -125,7 +61,6 @@
 				"done": true
 			},
 			{
-
 				"year": 2016,
 				"name": "SporTV - Gols",
 				"itunes": "https://itunes.apple.com/br/app/sportv-gols/id990348110?mt=8",
